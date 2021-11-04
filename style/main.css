@@ -52,7 +52,7 @@ header nav a:hover {
 .movie-principal {
   font-size: 16px;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url('/img/sthings.JPG');
+    url('https://raw.githubusercontent.com/allanfsgarcia/streaming-project-fp/main/img/sthings.jpg');
   height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
