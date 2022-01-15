@@ -9,9 +9,11 @@
 
 ![image](https://user-images.githubusercontent.com/91488719/149637267-dbb70e6f-904f-4a76-a568-7b89fceaf843.png)
 
-
+Deploy link: https://allanfsgarcia.github.io/streaming-project-fp/
 
 
 
 https://user-images.githubusercontent.com/91488719/149637658-2c2bb276-b77b-4215-9848-23c699fe190a.mp4
+
+Aprendizado: Utilizando arquivo plugin JS (Owl Carousel) com JQUERY, utilizando fontes externas, estilização CSS e boas práticas de código.
 
